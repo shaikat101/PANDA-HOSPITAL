@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "Name": "Dr. A.B.M Sarwar-E-Alam",
+    "Department": "Burn & Plastic Surgery",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 8159457"
+  },
+  {
+    "id": 2,
+    "Name": "Dr. rafiq ",
+    "Department": "Internal Medicine",
+    "Qualification": "FCPS, MD",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 3 44444"
+  },
+  {
+    "id": 3,
+    "Name": " Dr. Abdul Kader Shaikh",
+    "Department": " Neuromedicine",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 813333"
+  },
+  {
+    "id": 4,
+    "Name": "Dr. Karim",
+    "Department": "Urology",
+    "Qualification": "MBBS, FCP",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 5555557"
+  },
+  {
+    "id": 5,
+    "Name": "Dr. Farid",
+    "Department": "Cardiology",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 888888"
+  },
+  {
+    "id": 6,
+    "Name": "Dr. Shamim Ahmed",
+    "Department": "Pediatric Surgeon",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 999999"
+  },
+  {
+    "id": 7,
+    "Name": "Dr. A.B.M Sarwar-E-Alam",
+    "Department": "Gynecology & Obstetrics",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 111111"
+  },
+  {
+    "id": 8,
+    "Name": "Dr. Saima Zaman",
+    "Department": "Health",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 2 8000000"
+  },
+  {
+    "id": 9,
+    "Name": "Dr. Abid ul hoq",
+    "Department": "Skin Care",
+    "Qualification": "MBBS, FCPS",
+    "Designation": "Consultant",
+    "Chamber": "Pandacare Hospitals Ltd.",
+    "Phone": "+880 233333"
+  }
+]

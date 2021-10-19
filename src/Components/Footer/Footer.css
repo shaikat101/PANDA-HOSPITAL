@@ -1,0 +1,26 @@
+
+  .footer-menu {
+    color: white;
+    list-style: none;
+    margin-top: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .footer-menu:hover {
+    color:cadetblue;
+  }
+  .footer-input {
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color: white;
+  }
+  .footer-container {
+    background-color: #212529;
+    padding: 50px;
+    color: rgb(216, 209, 209);
+  }
+  .foter-phone-icon {
+    font-size: 30px;
+    color: red;
+  }

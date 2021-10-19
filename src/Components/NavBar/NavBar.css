@@ -1,0 +1,9 @@
+.navDesign{
+    font-weight: 700;
+    padding-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+.navDesign:hover {
+    color:cornflowerblue
+  }

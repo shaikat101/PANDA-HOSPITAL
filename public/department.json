@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "Department": "Burn & Plastic Surgery",
+    "By": "Aminur Rahman",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVwRtVuWZJ9Rb9VETdlXtPG9_wYuEvypt-Q&usqp=CAU",
+    "Description": "Plastic surgery is a greatly misunderstood specialty all over the world and not just in our country. General media and TV have a big part to play for this. If you searched the word ‘plastic surgery’ in Google today, first few thousand images will be of beautiful celebrities’ cosmetic procedures and their complications thereof."
+  },
+  {
+    "id": 2,
+    "Department": "Urology",
+    "By": "Koushik Ali",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKd79m1AuBntqtCmLiUUnga3CCR3esKJCv1w&usqp=CAU",
+    "Description": "pandacare is committed to provide world class comprehensive urology service with latest technology & skills. Our expert physicians have access to state of the art equipment and technology to help you in your fight against urological diseases"
+  },
+  {
+    "id": 3,
+    "Department": "Gastroenterology",
+    "By": "SM Sojibur Rahman",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZd3m7iS7MSsTo38OxYJO0ezlq4nXcbPjcgA&usqp=CAU",
+    "Description": "Each patient is unique. Our team of Gastroenterologists and Hepatologists with national and international training, qualification and experience ensures that you are treated comprehensively, individually, uniquely. "
+  },
+  {
+    "id": 4,
+    "Department": "Skin Aesthetic & Laser ",
+    "By": "Habibur Rahman",
+    "image": "data:image/jpeg;base64,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",
+    "Description": "One stop centre for all types of hair, nail & skin problems"
+  },
+  {
+    "id": 5,
+    "Department": "Orthopedics & Trauma",
+    "By": "Abul Bashar",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmnTUSOTSVx8X9VN9Wb2eoZnYnVJKdBheBg&usqp=CAU",
+    "Description": "PandaCare Orthopedics & Trauma Centre is enriched to handle our orthopedic patients to a new standard. By performing numerous successful critical surgeries in the field of orthopedics & spine surgery and through the tireless efforts of our team of physicians and nurses we have already gained the trust of the people. "
+  },
+  {
+    "id": 6,
+    "Department": "Diet & Nutrition",
+    "By": "Mehedi Hasan",
+    "image": "https://www.primephysioplus.com/wp-content/uploads/2019/10/Medical-Nutrition-Market-1024x687.jpg",
+    "Description": "Healthy living is a long term commitment. There are steps you can take right now that will make today healthier than yesterday and pave the way to a healthy living tomorrow. If you have a chronic health condition or want to improve your eating habits for your own personal and physical well being, we have the expertise and the programs in place to help you do it"
+  },
+  {
+    "id": 7,
+    "Department": "Heart",
+    "By": "Sajjad Murad",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCKzbWAyfCTiLJFpewH57UqtrMvE6q3sVfg&usqp=CAU",
+    "Description": "Square Heart Centre is where skill and modern technology meet to save and improve lives of both the young and old. From life saving cardiac surgeries to high –tech interventional cardiology –our team of specialist cover the full spectrum of heart diseases with skill and precision."
+  },
+  {
+    "id": 8,
+    "Department": "Radiology & Imaging",
+    "By": "Fazle Rabby",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrbR5uSjzmJ149NEUfCDmO_FDLBW55EFQ7dg&usqp=CAU",
+    "Description": "SQUARE Radiology Centre is fully equipped with a comprehensive Modern Radiology and Digital Imaging facilities. State of the art Diagnostic Radiological equipment and its applications provide the best images that help to ensure proper diagnosis."
+  },
+  {
+    "id": 9,
+    "Department": "Eye",
+    "By": "Saima Haque",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5wcYmghBJYb4kosTdbZOLAGSdMdkCmTFTzA&usqp=CAU",
+    "Description": "Eye problem is one of the biggest problem .we are here to assist you every single day to recover from this special problem."
+  }
+]
